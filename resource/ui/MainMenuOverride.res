@@ -182,7 +182,7 @@
 		"fieldName"					"VersionNumber"
 		"labelText"					"alexa, generate epic fucking skull hud"
 		"font"						"COOLVETICA"
-		"command"                   "engine showconsole; play ui/ThugHunter.mp3 ; clear ; echo isto deve ser um joguinho para ti.... ; echo thughud edit by techno for nuninski, original by Russ"
+		"command"                   "engine showconsole; play ui/ThugHunter.mp3 ; clear ; echo isto deve ser um joguinho para ti.... ; echo thughud edit by techno/rinne for nuninski, original by Russ"
 		"xpos"						"c-310"
 		"ypos"						"c-23"
 		"zpos"						"15"
